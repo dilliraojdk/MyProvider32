@@ -1,0 +1,2 @@
+# MyProvider32
+configserver
